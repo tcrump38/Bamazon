@@ -11,4 +11,4 @@ Browse as Customer: `node bamazonCustomer.js`
 Browse as Manager: `node bamazonManager.js`
 
 As a customer the user can view available items by ID, name, cost and inventory.
-![my screenshot](/images/Screen Shot 2019-01-05 at 11.20.37 AM)
+![my screenshot](Bamazon/images/Screen Shot 2019-01-05 at 11.20.37 AM.png)
