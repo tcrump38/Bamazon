@@ -7,9 +7,12 @@ Node and SQL are required downloads.
 
 Enter `npm install` at the root folder.
 
+<img width="571" alt="screen shot 2019-01-05 at 11 20 37 am" src="https://user-images.githubusercontent.com/39817046/50727459-c6784400-10e0-11e9-9c2d-9b39852c7268.png">
+
 Browse as Customer: `node bamazonCustomer.js`
 Browse as Manager: `node bamazonManager.js`
 
-As a customer the user can view available items by ID, name, cost and inventory.
+As a customer, the user can view available items by ID, name, cost and inventory.
 
-<img width="571" alt="screen shot 2019-01-05 at 11 20 37 am" src="https://user-images.githubusercontent.com/39817046/50727459-c6784400-10e0-11e9-9c2d-9b39852c7268.png">
+<img width="571" alt="screen shot 2019-01-05 at 11 21 36 am" src="https://user-images.githubusercontent.com/39817046/50727478-f6bfe280-10e0-11e9-9b86-52b43f5a4554.png">
+
