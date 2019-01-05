@@ -49,5 +49,7 @@ Add new product and update store information (price, quantity, department):
 
 <img width="570" alt="screen shot 2019-01-05 at 11 36 18 am" src="https://user-images.githubusercontent.com/39817046/50727608-cbd68e00-10e2-11e9-8576-ef6859c77117.png">
 
+<img width="570" alt="screen shot 2019-01-05 at 11 36 55 am" src="https://user-images.githubusercontent.com/39817046/50727721-82873e00-10e4-11e9-9bd9-7848133b2b38.png">
+
 
 
