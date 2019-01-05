@@ -39,6 +39,12 @@ Second, View Low Inventory:
 
 <img width="572" alt="screen shot 2019-01-05 at 11 29 58 am" src="https://user-images.githubusercontent.com/39817046/50727589-a21d6700-10e2-11e9-93b3-73ebe63790da.png">
 
+Add to existing inventory:
+
+<img width="571" alt="screen shot 2019-01-05 at 12 14 50 pm" src="https://user-images.githubusercontent.com/39817046/50727696-24f2f180-10e4-11e9-851a-8840bf39a71a.png">
+
+<img width="570" alt="screen shot 2019-01-05 at 12 15 55 pm" src="https://user-images.githubusercontent.com/39817046/50727700-2fad8680-10e4-11e9-884b-31b0f4843f26.png">
+
 Add new product and update store information (price, quantity, department):
 
 <img width="570" alt="screen shot 2019-01-05 at 11 36 18 am" src="https://user-images.githubusercontent.com/39817046/50727608-cbd68e00-10e2-11e9-8576-ef6859c77117.png">
