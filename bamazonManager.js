@@ -118,7 +118,7 @@ function addToInventory() {
         {
           type: "input",
           name: "quantity",
-          message: "How many items would like to add to invenotry??"
+          message: "How many items would like to add to inventory??"
         }
       ])
       .then(function(answer) {
